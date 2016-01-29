@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://123.56.45.254/Rapid_Scan.ipa</string>
+					<string>http://bejgsa.ibm.com/gsa/bejgsa/home/b/i/binsli/web/public/Rapid_Scan.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://123.56.45.254/Rapid_Scan.png</string>
+					<string>http://bejgsa.ibm.com/gsa/bejgsa/home/b/i/binsli/web/public/Rapid_Scan.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://123.56.45.254/Rapid_Scan.png</string>
+					<string>http://bejgsa.ibm.com/gsa/bejgsa/home/b/i/binsli/web/public/Rapid_Scan.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Rapid Scan App download</string>
+				<string>Rapid Scan Application</string>
 			</dict>
 		</dict>
 	</array>
